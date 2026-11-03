@@ -19,6 +19,11 @@ painel no computador por USB e usa no X-Plane ou Microsoft Flight Simulator.
 > lugar, os controles que o piloto usa para dirigir o avião com o piloto
 > automático, em vez de clicar na tela do simulador.
 >
+> > <p align="center">
+>   <img src="painel-frente.jpg" alt="Comando AP1 visto de frente e de lado, com a base de fixação" width="48%">
+>   <img src="painel-na-mesa.jpg" alt="Comando AP1 ao lado do monitor com o X-Plane, na mesa de simulação" width="48%">
+> </p>
+> 
 > **Botões**
 >
 > - **AP**: liga e desliga o piloto automático.
@@ -53,10 +58,6 @@ painel no computador por USB e usa no X-Plane ou Microsoft Flight Simulator.
 > Conecta por USB. O instalador da Comando configura os
 > botões e os plugins no simulador automaticamente.
 >
-> <p align="center">
->   <img src="painel-frente.jpg" alt="Comando AP1 visto de frente e de lado, com a base de fixação" width="48%">
->   <img src="painel-na-mesa.jpg" alt="Comando AP1 ao lado do monitor com o X-Plane, na mesa de simulação" width="48%">
-> </p>
 >
 > </details>
 
