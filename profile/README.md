@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-completa-fundo-preto.png" alt="Comando" width="60%">
+  <img src="logo-completa-fundo-transparente.png" alt="Comando" width="60%">
 </p>
 
 A **Comando** faz **painéis físicos** para simuladores de voo: caixas com
