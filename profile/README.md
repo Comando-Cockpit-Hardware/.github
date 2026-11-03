@@ -2,8 +2,8 @@
 
 A **Comando** faz **painéis físicos** para simuladores de voo: caixas com
 botões e botões giratórios de verdade, iguais aos de um avião. Você liga o
-painel no computador por USB e usa no X-Plane (e, mais tarde, no Microsoft
-Flight Simulator).
+painel no computador por USB e usa no X-Plane ou Microsoft
+Flight Simulator.
 
 Não é um painel só. É uma **plataforma**: uma base comum de eletrônica,
 programa e processos, em cima da qual vários painéis diferentes são
