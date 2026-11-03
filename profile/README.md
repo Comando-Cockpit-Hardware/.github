@@ -12,7 +12,8 @@ painel no computador por USB e usa no X-Plane ou Microsoft Flight Simulator.
 
 ## Nossos produtos
 
-### Comando AP1
+<details>
+<summary><strong>Comando AP1</strong>: Controlador de piloto automático</summary>
 
 Painel de piloto automático no estilo do Garmin G1000. Ele reúne, num só
 lugar, os controles que o piloto usa para dirigir o avião com o piloto
@@ -57,6 +58,8 @@ botões e os plugins no simulador automaticamente.
   <img src="painel-frente.jpg" alt="Comando AP1 visto de frente e de lado, com a base de fixação" width="48%">
   <img src="painel-na-mesa.jpg" alt="Comando AP1 ao lado do monitor com o X-Plane, na mesa de simulação" width="48%">
 </p>
+
+</details>
 
 ## Contato
 
