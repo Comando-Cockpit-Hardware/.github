@@ -10,6 +10,12 @@ painel no computador por USB e usa no X-Plane ou Microsoft Flight Simulator.
 > reconhece um mouse ou um controle de videogame. Um instalador simples liga
 > cada botão ao comando certo do simulador, sem programa extra aberto.
 
+<p align="center">
+  <a href="https://github.com/Comando-Cockpit-Hardware/comando-releases/raw/main/Comando-Installer-1.2.5-Windows.exe">
+    <img src="https://img.shields.io/badge/Baixar%20o%20instalador-Windows%201.2.5-209efe?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar o instalador para Windows, versão 1.2.5">
+  </a>
+</p>
+
 ## Nossos produtos
 
 > <details>
