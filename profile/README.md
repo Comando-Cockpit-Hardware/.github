@@ -12,14 +12,10 @@ painel no computador por USB e usa no X-Plane ou Microsoft Flight Simulator.
 
 ## Nossos produtos
 
-- **Comando AP1**: painel de piloto automático no estilo do Garmin G1000. **Pronto.**
-- **Switch panel** (painel de chaves no estilo do Cessna 172): **em desenvolvimento.**
-
-## Comando AP1
+### Comando AP1
 
 Painel de piloto automático no estilo do Garmin G1000, com 12 botões e 2
-botões giratórios (rumo e altitude). Funciona no X-Plane 11 (Windows) e no
-X-Plane 12 (macOS).
+botões giratórios (rumo e altitude).
 
 <p align="center">
   <img src="painel-frente.jpg" alt="Comando AP1 visto de frente e de lado, com a base de fixação" width="48%">
