@@ -20,12 +20,6 @@ painel no computador por USB e usa no X-Plane ou Microsoft Flight Simulator.
 | **g1000-autopilot** | Piloto automático no estilo do Garmin G1000: 12 botões e 2 botões giratórios (rumo e altitude). Funciona no X-Plane 11 (Windows) e 12 (macOS) | Em desenvolvimento |
 | **c172-switch-panel** | Painel de chaves de um Cessna 172: magnetos, bateria, alternador, luzes, bomba de combustível | Planejado |
 
-## Documentação
-
-A documentação para quem não é da área está em
-[docs.comandoch.com.br](https://docs.comandoch.com.br). Ela explica o que é
-cada parte, como o projeto se organiza e as decisões tomadas.
-
 ## Contato
 
 Dúvidas e contato: comandocockpit@gmail.com
