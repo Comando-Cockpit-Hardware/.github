@@ -44,15 +44,14 @@ automático, em vez de clicar na tela do simulador.
 
 | Simulador | Windows | macOS |
 |---|---|---|
-| X-Plane 11 | ✅ Funciona | ⏳ Não testado |
-| X-Plane 12 | ⏳ Não testado | ✅ Funciona |
-| MSFS 2020 | 🧪 Em testes | ❌ Não disponível |
-| MSFS 2024 | ⏳ Não testado | ❌ Não disponível |
+| X-Plane 11 | ✅ Funciona | ✅ Funciona |
+| X-Plane 12 | ✅ Funciona | ✅ Funciona |
+| MSFS 2020 | ✅ Funciona | ❌ Não disponível |
+| MSFS 2024 | ✅ Funciona | ❌ Não disponível |
 
-✅ funciona · 🧪 em testes · ⏳ ainda não testado · ❌ o simulador não roda nesse sistema
 
-Conecta por USB e não precisa de driver. O instalador da Comando configura os
-botões no simulador automaticamente.
+Conecta por USB. O instalador da Comando configura os
+botões e os plugins no simulador automaticamente.
 
 <p align="center">
   <img src="painel-frente.jpg" alt="Comando AP1 visto de frente e de lado, com a base de fixação" width="48%">
