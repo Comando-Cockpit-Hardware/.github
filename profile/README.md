@@ -42,8 +42,14 @@ automático, em vez de clicar na tela do simulador.
 
 **Compatibilidade**
 
-- X-Plane 11 no Windows.
-- X-Plane 12 no macOS.
+| Simulador | Windows | macOS |
+|---|---|---|
+| X-Plane 11 | ✅ Funciona | ⏳ Não testado |
+| X-Plane 12 | ⏳ Não testado | ✅ Funciona |
+| MSFS 2020 | 🧪 Em testes | ❌ Não disponível |
+| MSFS 2024 | ⏳ Não testado | ❌ Não disponível |
+
+✅ funciona · 🧪 em testes · ⏳ ainda não testado · ❌ o simulador não roda nesse sistema
 
 Conecta por USB e não precisa de driver. O instalador da Comando configura os
 botões no simulador automaticamente.
