@@ -11,8 +11,8 @@ painel no computador por USB e usa no X-Plane ou Microsoft Flight Simulator.
 > cada botão ao comando certo do simulador, sem programa extra aberto.
 
 <p align="center">
-  <a href="https://github.com/Comando-Cockpit-Hardware/comando-releases/raw/main/Comando-Installer-1.2.10-Windows.exe">
-    <img src="https://img.shields.io/badge/%E2%AC%87%20Baixar%20o%20instalador-Windows%201.2.10-209efe?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar o instalador para Windows, versão 1.2.10">
+  <a href="https://github.com/Comando-Cockpit-Hardware/comando-releases/raw/main/Comando-Installer-1.2.11-Windows.exe">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20Baixar%20o%20instalador-Windows%201.2.11-209efe?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar o instalador para Windows, versão 1.2.11">
   </a>
 </p>
 
